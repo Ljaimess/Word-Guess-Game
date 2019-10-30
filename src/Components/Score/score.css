@@ -1,0 +1,23 @@
+#guesses{
+    background-color: blue;
+    height: 40%;
+    width: 80%;
+    float: left;
+    
+}
+
+#badletters{
+    background-color: brown;
+    height:40%;
+    width: 80%;
+    float: left;
+}
+
+#instruc{
+    background-color: aqua;
+    height: 80%;
+    width:40%; 
+
+    float: right;
+    
+}
